@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "248049763918",
+    "project_id": "forum-8f3cc",
+    "storage_bucket": "forum-8f3cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248049763918:android:0c73fe755188480011e51f",
+        "android_client_info": {
+          "package_name": "com.example.forum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeFqm2d4sZpikFkFPlcy0Iw6CfGSk93Tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248049763918:android:ce6d74b09b1cd67211e51f",
+        "android_client_info": {
+          "package_name": "com.example.newspaper_app_the_forum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeFqm2d4sZpikFkFPlcy0Iw6CfGSk93Tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248049763918:android:76945d6087797c5311e51f",
+        "android_client_info": {
+          "package_name": "com.forum.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeFqm2d4sZpikFkFPlcy0Iw6CfGSk93Tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
